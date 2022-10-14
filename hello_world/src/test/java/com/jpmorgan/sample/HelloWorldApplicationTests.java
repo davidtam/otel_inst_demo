@@ -1,4 +1,4 @@
-package com.jpmorgan.sample.helloWorld;
+package com.jpmorgan.sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
